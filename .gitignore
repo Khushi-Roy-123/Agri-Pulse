@@ -7,7 +7,7 @@ __pycache__/
 # Local Config
 .env
 
-# Large Datasets (Ignore the huge image DB to prevent GitHub crashing)
+# Large Datasets 
 data/PlantVillage/
 
 # Keep the tabular data
